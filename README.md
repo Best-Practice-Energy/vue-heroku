@@ -1,4 +1,3 @@
-#
 # vue-heroku
 
 ## Project setup
